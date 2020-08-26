@@ -11,6 +11,7 @@ Device specific information
     fvp
     hikey620
     hikey960
+    imx
     juno
     qemu
     rpi3
